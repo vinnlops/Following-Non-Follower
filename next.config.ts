@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   output: 'export',
   images: {
     unoptimized: true,
-  },
-  basePath: '/Following-Non-Follower',
+  }
 };
 
 export default nextConfig;
